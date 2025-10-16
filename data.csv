@@ -1,0 +1,6 @@
+NOMBRE_IPS,Ciudad,empleados,ingresos_mensual,Activa,Observaciones
+clinica la paz,bogota,50,12000000,sí,
+CLÍNICA CENTRAL,bogotá,48,11800000,SI,duplicado
+hosp san jose,cali,"40",8000000,no,datos incompletos
+hosp san jose,cali,40,8000000,NO,duplicado
+CLINICA SUR,medellin,60,,SI,
